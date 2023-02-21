@@ -1,4 +1,8 @@
 
+## Tutorial for KSIAM 2023 AI Winter School
+
+https://colab.research.google.com/drive/1FVQebYQgqfI4orYbp3yQ5-lfpV-0myZQ?usp=sharing
+
 ## install conda environments 
 
 ```
